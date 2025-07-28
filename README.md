@@ -12,7 +12,7 @@ A Flutter-based taxi booking application with interactive map features.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/taxi_app.git
+git clone https://github.com/fatima-msd/taxi_app.git
 cd taxi_app
 ```
 2. Install dependencies:
